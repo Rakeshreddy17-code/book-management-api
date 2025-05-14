@@ -17,7 +17,7 @@ A simple RESTful API built with TypeScript, Express, and MongoDB to manage books
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/book-management-api.git
+git clone https://github.com/Rakeshreddy17-code/book-management-api.git
 cd book-management-api
 npm install 
 
